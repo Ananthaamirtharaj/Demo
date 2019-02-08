@@ -1420,7 +1420,35 @@ SQ   Sequence 1471 BP; 369 A; 331 C; 479 G; 292 T; 0 other;
      cactttgtga ttcatgactg gggtgaagtc g                                     1471
 //
 
-
+XX
+SQ   Sequence 1471 BP; 369 A; 331 C; 479 G; 292 T; 0 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgggc ggtagcacag aggagcttgc        60
+     tccttgggtg acgagcggcg gacgggtgag taaagtctgg ggatctgcct gatggagggg       120
+     gataactact ggaaacggta gctaataccg catgacgtct tcggaccaaa gtgggggacc       180
+     ttcgggcctc acgccatgag atgaacccag atgggattag ctggtaggtg aggtaacggc       240
+     tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga       300
+     cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gggaaaccct       360
+     gatgcagcca tgccgcgtgt gtgaagaagg ccttcgggtt gtaaagcact ttcagcgggg       420
+     aggaaggcga taaacttaat aagtttgttg attgacgtta cccgcagaag aagcaccggc       480
+     taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaatgactgg       540
+     gcgtaaagcg cacgcaggcg gtgtgttaag ttggatgtga aatccccggg ctcaacccgg       600
+     gaacagcatt caaaactgac aggctagagt ctcgtagagg ggggtagaat tccaggtgta       660
+     gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa       720
+     gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca       780
+     cgccgtaaac gatgtcgact tggaggctgt ggtcttgaac cgtggcttcc ggagctaacg       840
+     cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg       900
+     ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttaccta       960
+     ctcttgacat ccagagaaga ctgtagagat acggttgtgc cttcgggagc tctgagacag      1020
+     gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc      1080
+     gcaaccctta tcctttgttg ccagcacgta atggtgggaa ctcaaaggag actgccggtg      1140
+     ataaaccgga ggaaggtggg gatgacgtca agtcatcatg gcccttacga gtagggctac      1200
+     acacgtgcta caatggcgca tacaaagaga agcgagcctg cgagggtgag cggacctcat      1260
+     aaagtgcgtc gtagtccgga ttggagtctg caactcgact ccatgaagtc ggaatcgcta      1320
+     gtaatcgtag atcagaatgc tacggtgaat acgttcccgg gccttgtaca caccgcccgt      1380
+     cacaccatgg gagtgggttg caaaagaagt aggtagctta accttagggg gggcgcttac      1440
+     cactttgtga ttcatgactg gggtgaagtc g                                     1471
+//
+Modified by Anantha
     
  
 
